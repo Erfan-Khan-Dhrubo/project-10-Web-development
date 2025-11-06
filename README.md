@@ -6,7 +6,7 @@ Users can explore public tips, post their own gardening advice, discover active 
 ---
 
 ## 🔗 Live Site  
-👉 GrowTogether(https://project-10-web-development.web.app/)  
+👉 [GrowTogether](https://project-10-web-development.web.app)  
 
 ---
 
